@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steve 
 - 👀 I’m interested in music, woodworking and reading
-- 🌱 I’m currently learning AWS cloud
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on SAP applications
 - 📫 You can reach me at stevenallen7463@gmail.com
 - I'm a former US Marine
